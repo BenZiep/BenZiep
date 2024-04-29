@@ -1,3 +1,4 @@
+*
 - **This is bold text**
 - __This is bold text__
 - *This thext is italicized*

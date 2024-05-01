@@ -9,5 +9,6 @@
   - Ich habe ein neues Dokument erstell wo alle ihre Bauteil für die Test-Wall eintragen können.
   - Ich habe eine E-Mail geschrieben und alle aufgefordert ihre Bauteile für die Test-Wall einzutragen.
   - Ich habe mit Mermaidsheet ein FlowSheet für die einteilung wann ich was mache erstellt und eine mmd-Datei daraus gemacht.
-## Fragen
+## Fragen & Probleme
 - [x] Unklarheiten in Visual Studi Code
+- [ ] Kann B-Learning nicht starten

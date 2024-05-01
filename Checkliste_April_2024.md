@@ -8,6 +8,8 @@
 ## Einführung CM-Prozesse
 - [ ] Einführung abgeschlossen
 ## Testwand
+- [X] Daten der Bauteile anfordern
+- [ ] Daten der Bauteile erhalten
 - [ ] Masse der diversen Recks
 - [ ] Layout für die Recks
 - [ ] Überprüfen ob die recks in den vorhandenen Schrank passen

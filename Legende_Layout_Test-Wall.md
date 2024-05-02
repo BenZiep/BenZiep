@@ -22,7 +22,7 @@
 | Simon Goeldi            |           |
 | Guido Ledergerber       |           |
 | Tobias Nuessle          |           |
-| Harry Rechter           |           |
+| Harry Rechter           | GRün      |
 | Severin Schindler       |           |
 | Zelio Sutter            |           |
 | Karsten Tischer         |           |

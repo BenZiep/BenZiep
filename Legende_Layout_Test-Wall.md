@@ -6,7 +6,7 @@
 | Tobias Manser           | Orange     |
 | Manuel Baechler         | Grau       |
 | Vincenzo Carlucci       | Gelb       |
-| Alain Grob              | Hell-Blau  |
+| Alain Grob              | Hellblau  |
 | Andreas Schaer          | Lila       |
 | Matthias Noack          |            |
 | Marcel Frei             |            |

@@ -5,7 +5,7 @@
 | Dimitrie Lieberherr     | Blau       |
 | Tobias Manser           | Orange     |
 | Manuel Baechler         | Grau       |
-| Vincenzo Carlucci       | Orange     |
+| Vincenzo Carlucci       | Dunkelgelb |
 | Alain Grob              | Hellblau   |
 | Andreas Schaer          | Lila       |
 | Matthias Noack          |            |

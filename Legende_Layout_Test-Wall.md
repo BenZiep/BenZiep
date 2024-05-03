@@ -25,4 +25,4 @@
 | Harry Rechter           | Hellgrün   |
 | Severin Schindler       | -          |
 | Zelio Sutter            |            |
-| Karsten Tischer         |            |
+| Karsten Tischer         | Dunkelrot  |

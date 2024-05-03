@@ -18,7 +18,7 @@
 | Alexander Schlaepfer    | -         |
 | Oliver Braendli         |           |
 | Darius Eckhardt         |           |
-| Tiago Ferreira da Cunha |           |
+| Tiago Ferreira da Cunha | -         |
 | Simon Goeldi            |           |
 | Guido Ledergerber       | -         |
 | Tobias Nuessle          |           |

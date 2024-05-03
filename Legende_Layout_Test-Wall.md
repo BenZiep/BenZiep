@@ -13,7 +13,7 @@
 | Timon Wallroth          |           |
 | Urs Brandes             |           |
 | Markus Suber            |           |
-| Stephan Immerz          |           |
+| Stephan Immerz          | -         |
 | Robin Schneider         |           |
 | Alexander Schlaepfer    | -         |
 | Oliver Braendli         |           |

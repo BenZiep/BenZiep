@@ -1,5 +1,7 @@
 # Arbeitsprotokoll
+
 ## Tage
+
 - 29.04
   - Ich habe gelernt wie ich und für was ich Markdown benutze/benötige. (Unterstützung Pascal Brühwiler & [YouTube-Video](https://youtu.be/_PPWWRV6gbA?si=M2w19K0zv1BXbKE0))
   - Ich habe eine Checkliste für, was ich alles im April erledigen soll, gemacht.
@@ -18,7 +20,9 @@
   - Ich habe alle, welche bis heute noch nichts im Test-Wall-Dokument eingetrgen haben per Teams nochmals daran erinnert.
   - Ich habe am Layaut der Test-Wall Weitergearbeitet.
   - Ich habe eine Legende für die Test-Wall erstellt.
+
 ## Fragen & Probleme
+
 - [x] Unklarheiten in Visual Studi Code
 - [x] Kann B-Learning nicht starten
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?

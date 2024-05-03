@@ -1,13 +1,23 @@
 # Checkliste April 2024
+
 ## Markdown
+
 - [x] Markdown verstehen
+
 ## Demo-Transportlinie mit GCPRO
+
 - [ ] Abgeschlossen
+
 ## Software Testing
+
 - [ ] Online-Kurse abgeschlossen
+
 ## Einführung CM-Prozesse
+
 - [ ] Einführung abgeschlossen
+
 ## Testwand
+
 - [X] Daten der Bauteile anfordern
 - [ ] Daten der Bauteile erhalten
 - [ ] Masse der diversen Recks

@@ -15,7 +15,7 @@
 | Markus Suber            |           |
 | Stephan Immerz          |           |
 | Robin Schneider         |           |
-| Alexander Schlaepfer    |           |
+| Alexander Schlaepfer    | -         |
 | Oliver Braendli         |           |
 | Darius Eckhardt         |           |
 | Tiago Ferreira da Cunha |           |

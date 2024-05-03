@@ -20,9 +20,9 @@
 | Darius Eckhardt         |           |
 | Tiago Ferreira da Cunha |           |
 | Simon Goeldi            |           |
-| Guido Ledergerber       |           |
+| Guido Ledergerber       | -         |
 | Tobias Nuessle          |           |
 | Harry Rechter           | Grün      |
-| Severin Schindler       |           |
+| Severin Schindler       | -         |
 | Zelio Sutter            |           |
 | Karsten Tischer         |           |

@@ -24,5 +24,5 @@
 | Tobias Nuessle          | -          |
 | Harry Rechter           | Hellgrün   |
 | Severin Schindler       | -          |
-| Zelio Sutter            |            |
+| Zelio Sutter            | -          |
 | Karsten Tischer         | Dunkelrot  |

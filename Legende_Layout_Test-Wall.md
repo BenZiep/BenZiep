@@ -9,7 +9,7 @@
 | Alain Grob              | Hellblau   |
 | Andreas Schaer          | Lila       |
 | Matthias Noack          |            |
-| Marcel Frei             |            |
+| Marcel Frei             | -          |
 | Timon Wallroth          |            |
 | Urs Brandes             |            |
 | Markus Surber           | Gelb       |

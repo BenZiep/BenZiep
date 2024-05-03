@@ -12,7 +12,7 @@
 | Marcel Frei             |            |
 | Timon Wallroth          |            |
 | Urs Brandes             |            |
-| Markus Surber           |            |
+| Markus Surber           | Gelb       |
 | Stephan Immerz          | -          |
 | Robin Schneider         | Dunkelblau |
 | Alexander Schlaepfer    | -          |

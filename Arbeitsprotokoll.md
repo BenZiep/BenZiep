@@ -16,7 +16,9 @@
   - Ich habe ein Word erstellt, in welchem ich mit dem bereits vorhandenen Material, welches auf die Test-Wall kommt, ein ungefähres Layout erstellt habe (1:100).
 - 03.05
   - Ich habe alle, welche bis heute noch nichts im Test-Wall-Dokument eingetrgen haben per Teams nochmals daran erinnert.
-  - 
+  - Ich habe am Layaut der Test-Wall Weitergearbeitet.
+  - Ich habe eine Legende für die Test-Wall erstellt.
 ## Fragen & Probleme
 - [x] Unklarheiten in Visual Studi Code
 - [x] Kann B-Learning nicht starten
+- [ ] Stimmt die Anzahl HMIs der Test-Wall?

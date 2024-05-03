@@ -21,7 +21,7 @@
 | Tiago Ferreira da Cunha | -          |
 | Simon Goeldi            |            |
 | Guido Ledergerber       | -          |
-| Tobias Nuessle          |            |
+| Tobias Nuessle          | -          |
 | Harry Rechter           | Grün       |
 | Severin Schindler       | -          |
 | Zelio Sutter            |            |

@@ -7,7 +7,7 @@
 | Manuel Baechler         | Grau       |
 | Vincenzo Carlucci       | Gelb       |
 | Alain Grob              | Hell-Blau  |
-| Andreas Schaer          |            |
+| Andreas Schaer          | Lila       |
 | Matthias Noack          |            |
 | Marcel Frei             |            |
 | Timon Wallroth          |            |

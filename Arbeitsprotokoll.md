@@ -14,6 +14,9 @@
   - Ich habe herausgefunde wieso ich das B-Learning noch nicht machen kann (Es muss noch genemigt werden).
   - Ich habe den Schrank der Test-Wall nochmals ausgemessen.
   - Ich habe ein Word erstellt, in welchem ich mit dem bereits vorhandenen Material, welches auf die Test-Wall kommt, ein ungefähres Layout erstellt habe (1:100).
+- 03.05
+  - Ich habe alle, welche bis heute noch nichts im Test-Wall-Dokument eingetrgen haben per Teams nochmals daran erinnert.
+  - 
 ## Fragen & Probleme
 - [x] Unklarheiten in Visual Studi Code
 - [x] Kann B-Learning nicht starten

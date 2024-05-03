@@ -12,17 +12,17 @@
 | Marcel Frei             |            |
 | Timon Wallroth          |            |
 | Urs Brandes             |            |
-| Markus Suber            |            |
+| Markus Surber           |            |
 | Stephan Immerz          | -          |
 | Robin Schneider         | Dunkelblau |
 | Alexander Schlaepfer    | -          |
 | Oliver Braendli         |            |
-| Darius Eckhardt         |            |
+| Darius Eckhardt         | Grün       |
 | Tiago Ferreira da Cunha | -          |
 | Simon Goeldi            |            |
 | Guido Ledergerber       | -          |
 | Tobias Nuessle          | -          |
-| Harry Rechter           | Grün       |
+| Harry Rechter           | Hellgrün   |
 | Severin Schindler       | -          |
 | Zelio Sutter            |            |
 | Karsten Tischer         |            |

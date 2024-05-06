@@ -16,7 +16,7 @@
 | Stephan Immerz          | -          |
 | Robin Schneider         | Dunkelblau |
 | Alexander Schlaepfer    | -          |
-| Oliver Braendli         |            |
+| Oliver Braendli         | -          |
 | Darius Eckhardt         | Grün       |
 | Tiago Ferreira da Cunha | -          |
 | Simon Goeldi            |            |

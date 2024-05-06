@@ -26,6 +26,7 @@
   - Ich habe mir "Demo Systems for Mercury MES" angeschaut.
   - Ich habe am Layout der Test-Wall weitergearbeitet, es fahtl nur noch eine Person.
   - Kann als nächstes das Layout mit Alexander besprechen.
+  - Ich habe eine Excel-Tabelle für die Beuteile Erstellt (da ich gemerkt habe, dass es besser als Word ist).
 
 ## Fragen & Probleme
 

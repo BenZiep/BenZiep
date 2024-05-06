@@ -22,6 +22,7 @@
   - Ich habe eine Legende für die Test-Wall erstellt.
 - 06.05
   - Ich habe Diejenigen, welche das Dokument der Test-Wall noch nicht ausgefüllt haben, nochmals daran erinnert es auszufüllen.
+  - B-Learning Genehmigung immernoch austehend.
 
 ## Fragen & Probleme
 

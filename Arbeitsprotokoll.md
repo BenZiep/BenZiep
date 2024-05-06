@@ -20,6 +20,8 @@
   - Ich habe alle, welche bis heute noch nichts im Test-Wall-Dokument eingetrgen haben per Teams nochmals daran erinnert.
   - Ich habe am Layaut der Test-Wall Weitergearbeitet.
   - Ich habe eine Legende für die Test-Wall erstellt.
+- 06.05
+  - Ich habe Diejenigen, welche das Dokument der Test-Wall noch nicht ausgefüllt haben, nochmals daran erinnert es auszufüllen.
 
 ## Fragen & Probleme
 

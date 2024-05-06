@@ -8,9 +8,9 @@
 | Vincenzo Carlucci       | Dunkelgelb |
 | Alain Grob              | Hellblau   |
 | Andreas Schaer          | Lila       |
-| Matthias Noack          |            |
+| Matthias Noack          | -          |
 | Marcel Frei             | -          |
-| Timon Wallroth          |            |
+| Timon Wallroth          | -          |
 | Urs Brandes             |            |
 | Markus Surber           | Gelb       |
 | Stephan Immerz          | -          |
@@ -19,7 +19,7 @@
 | Oliver Braendli         | -          |
 | Darius Eckhardt         | Grün       |
 | Tiago Ferreira da Cunha | -          |
-| Simon Goeldi            |            |
+| Simon Goeldi            | -          |
 | Guido Ledergerber       | -          |
 | Tobias Nuessle          | -          |
 | Harry Rechter           | Hellgrün   |

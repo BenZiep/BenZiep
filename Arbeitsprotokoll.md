@@ -32,3 +32,5 @@
 - [x] Unklarheiten in Visual Studi Code
 - [x] Kann B-Learning nicht starten
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
+- Kommunikation Verläuft eher langsam
+

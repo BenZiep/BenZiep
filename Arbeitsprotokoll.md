@@ -23,6 +23,7 @@
 - 06.05
   - Ich habe Diejenigen, welche das Dokument der Test-Wall noch nicht ausgefüllt haben, nochmals daran erinnert es auszufüllen.
   - B-Learning Genehmigung immernoch austehend.
+  - Ich habe mir "Demo Systems for Mercury MES" angeschaut.
 
 ## Fragen & Probleme
 

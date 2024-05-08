@@ -32,6 +32,7 @@
 ## Fragen & Probleme
 
 - [x] Unklarheiten in Visual Studi Code
-- [x] Kann B-Learning nicht starten
+- [x] Wieso kann ich das B-Learning nicht starten?
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
+- [ ] Ich kann das B-Learning noch immer nicht starten.
 

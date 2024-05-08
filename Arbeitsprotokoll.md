@@ -28,6 +28,8 @@
   - Kann als nächstes das Layout mit Alexander besprechen.
   - Ich habe eine Excel-Tabelle für die Beuteile Erstellt (da ich gemerkt habe, dass es besser als Word ist).
   - Ich habe ein zweites Layout erstellt (1. Kompakt und alles bei einander, 2. Alle HMIs oben und der Rest unten (Erfordert komplexere verdrahtung)).
+- 08.05
+  - Ich habe einem Mitstift versucht zu helfen bei der GCPRO-Einführung.
 
 ## Fragen & Probleme
 

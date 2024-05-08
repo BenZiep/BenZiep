@@ -22,7 +22,7 @@
   - Ich habe eine Legende für die Test-Wall erstellt.
 - 06.05
   - Ich habe Diejenigen, welche das Dokument der Test-Wall noch nicht ausgefüllt haben, nochmals daran erinnert es auszufüllen.
-  - B-Learning Genehmigung immernoch austehend.
+  - B-Learning Genehmigung immer noch austehend.
   - Ich habe mir "Demo Systems for Mercury MES" angeschaut.
   - Ich habe am Layout der Test-Wall weitergearbeitet, es fahtl nur noch eine Person.
   - Kann als nächstes das Layout mit Alexander besprechen.

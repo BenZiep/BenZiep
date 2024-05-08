@@ -38,4 +38,5 @@
 - [x] Wieso kann ich das B-Learning nicht starten?
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
 - [ ] Ich kann das B-Learning noch immer nicht starten.
+- [ ] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
 

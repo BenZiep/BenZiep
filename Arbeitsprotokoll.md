@@ -30,6 +30,7 @@
   - Ich habe ein zweites Layout erstellt (1. Kompakt und alles bei einander, 2. Alle HMIs oben und der Rest unten (Erfordert komplexere verdrahtung)).
 - 08.05
   - Ich habe einem Mitstift versucht zu helfen bei der GCPRO-Einführung.
+  - Ich habe den Ablauf-Test-Wall angepasst.
 
 ## Fragen & Probleme
 

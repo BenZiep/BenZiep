@@ -31,6 +31,8 @@
 - 08.05
   - Ich habe einem Mitstift versucht zu helfen bei der GCPRO-Einführung.
   - Ich habe den Ablauf-Test-Wall angepasst.
+- 13.05
+  - Ich habe alle Bauteile im Laylout der Test-Wall beschriftet
 
 ## Fragen & Probleme
 

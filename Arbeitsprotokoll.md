@@ -32,7 +32,9 @@
   - Ich habe einem Mitstift versucht zu helfen bei der GCPRO-Einführung.
   - Ich habe den Ablauf-Test-Wall angepasst.
 - 13.05
-  - Ich habe alle Bauteile im Laylout der Test-Wall beschriftet
+  - Ich habe alle Bauteile im Laylout der Test-Wall beschriftet.
+  - Ich habe das Layout nochmals überarbeitet.
+  - Ich habe mit Alexander einen Termin abgemacht um mit ihm das Layout zu besprechen.
 
 ## Fragen & Probleme
 
@@ -41,4 +43,3 @@
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
 - [ ] Ich kann das B-Learning noch immer nicht starten.
 - [ ] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
-

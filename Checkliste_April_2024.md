@@ -19,8 +19,8 @@
 ## Testwand
 
 - [X] Daten der Bauteile anfordern
-- [ ] Daten der Bauteile erhalten
-- [ ] Masse der diversen Recks
+- [x] Daten der Bauteile erhalten
+- [x] Masse der diversen Recks
 - [ ] Layout für die Recks
 - [ ] Überprüfen ob die recks in den vorhandenen Schrank passen
 

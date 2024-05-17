@@ -35,6 +35,9 @@
   - Ich habe alle Bauteile im Laylout der Test-Wall beschriftet.
   - Ich habe das Layout nochmals überarbeitet.
   - Ich habe mit Alexander einen Termin abgemacht um mit ihm das Layout zu besprechen.
+- 17.05
+  - Ich habe ein Neuse Layout gemacht, in welchem ich alle gleichen SPS beieinander habe.
+  - Ich habe den Strom für die 6 Reihen berechnet
 
 ## Fragen & Probleme
 

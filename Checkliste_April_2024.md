@@ -25,10 +25,12 @@
 - [ ] Überprüfen ob die recks in den vorhandenen Schrank passen
 
 Wenns passt:
+
 - [ ] Material für die Befestigung bestellen
 - [ ] Recks einbauen
 
 Wenns nicht passt:
+
 - [ ] Masse berechnen
 - [ ] Schrank bestellen
 - [ ] Material für Befestigung bestellen

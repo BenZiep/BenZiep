@@ -1,0 +1,310 @@
+<mxfile host="65bd71144e">
+    <diagram id="4i3XlWR_qDF0VTYH1KfJ" name="Page-1">
+        <mxGraphModel dx="-673" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1790" y="70" width="2295" height="2093" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1802" y="1089.5" width="2295" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2894.5" y="70" width="110" height="2093" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="IPC477D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="1814" y="740" width="483" height="337" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="IPC477D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="2403" y="740" width="483" height="337" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="IPC277E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="3646.88" y="753.5" width="415" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="TP1200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="3119" y="788" width="330" height="241" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="IPC477E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="3085" y="440" width="398" height="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="IPC477E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="3655.88" y="440" width="398" height="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="IPC477E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCD42;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="1843.25" y="440" width="398" height="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="IPC477E 15&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="2445.5" y="440" width="398" height="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="2316.5" y="70" width="63" height="1019.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="3552" y="70" width="63" height="1019.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="2112" y="1203" width="63" height="903" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="2508.5" y="1207" width="63" height="898" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="2805.88" y="1204" width="63" height="898" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="3056" y="1203.5" width="63" height="899" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2247.81" y="1633.84" width="889.41" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1892.22" y="1633.97" width="895.57" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1557.25" y="1636.25" width="892.5" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1977.25" y="1274.1200000000001" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2666.51" y="1274.1200000000001" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2314.01" y="1274.1200000000001" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="200SP F-CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2302.5099999999998" y="1929.12" width="75" height="117" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="1512SP F-1 PN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1953.25" y="1687.88" width="100" height="117" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;S7-1500 CPU 1513F-1 PN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1985.75" y="1748.31" width="35" height="147" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="IM151-8PN/DP CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2280.01" y="1498" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="S7-300 CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1983.25" y="1978.69" width="40" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="1837" y="1207.5" width="63" height="890.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="IM151-8PN/DP CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2280.01" y="1373" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2797.44" y="1637.75" width="890" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3088.9700000000003" y="1634.22" width="892.07" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3411.1400000000003" y="1634.62" width="887.47" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;S7-1500 CPU 1513F-1 PN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1986.0000000000002" y="1833.3100000000002" width="35" height="147" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Rockwell 5069-L330ER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3193.44" y="1570" width="98" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;S7-1500 CPU 1513F-1 PN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1986.5" y="1790.31" width="35" height="147" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Rockwell 5069-L330ER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3193.44" y="1789.1200000000001" width="98" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3216.44" y="1274.1200000000001" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;8x Wago Klemmen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3252.44" y="2190.91" width="32" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="S7-300 CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1983.25" y="1933.1200000000001" width="40" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3067.2200000000003" y="2371" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3076.2200000000003" y="2150" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;font color=&quot;#ffffff&quot;&gt;1512SP F-1 PN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1954" y="1365.5" width="100" height="117" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3067.22" y="2296" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="Sitop PSE200U 3A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3066.2200000000003" y="2470" width="72" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3509.01" y="1276.12" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="1512SP F-1 PN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1954.0000000000002" y="1472.5" width="100" height="117" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="5069-L330ERS2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3486.01" y="1354" width="98" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3067.2200000000003" y="2220" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;font color=&quot;#ffffff&quot;&gt;1512SP F-1 PN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1954.0000000000002" y="1580.1200000000001" width="100" height="117" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="CPU 1517" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2242.01" y="1647" width="196" height="151" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="3352" y="1204" width="63" height="902" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="3652" y="1208" width="63" height="898.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="3994" y="1205.74" width="63" height="898.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 6px;&quot;&gt;Switch Teltonica TWS114&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60A917;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3840.88" y="1444" width="27" height="113" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;Westermo Gigabit Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3828.38" y="1274.12" width="52" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;S7-1500 CPU 1513F-1 PN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="1986.5" y="1878.6200000000001" width="35" height="147" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="Rockwell 5069-L330ER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeWidth=3;direction=east;rotation=90;fontColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="3193.44" y="1678.3600000000001" width="98" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="2323.06" y="1608.44" width="63" height="1041.35" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="Sclance WiFi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3829.38" y="1700" width="50" height="114" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="CPU 1510SP-1 PN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="2281.51" y="1836" width="117" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="2322.85" y="657.1800000000001" width="63" height="1040.94" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="3523.49" y="1626.72" width="63" height="1004.79" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;direction=east;" parent="1" vertex="1">
+                    <mxGeometry x="3525.05" y="676.95" width="63" height="1001.41" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="IPC477D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="1812" y="740" width="483" height="337" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="IPC477E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="1841.25" y="440" width="398" height="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="IPC477E 15&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="2443.5" y="440" width="398" height="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="IPC477D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3399;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="2401" y="740" width="483" height="337" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="MicroLogix 1100" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;rotation=90;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="3480.01" y="1776.8099999999997" width="110" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="CPU 1769-L36ERM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3507.51" y="1566.81" width="55" height="118" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="CPU 1769-L36ERM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3490" y="1649.9999999999998" width="90" height="118" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="CPU 5069 L330ERS2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3486.01" y="1462.9" width="98" height="143" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Hirschmann Switch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60A917;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3824.38" y="1332.5" width="60" height="137" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="VisionBox AgeX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3815.88" y="1548.31" width="77" height="274" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ET 200S&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3841.88" y="1552.31" width="25" height="147" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;ET 200S&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3841.88" y="1519.31" width="25" height="147" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="ET 200SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3829.88" y="1489.31" width="50" height="117" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Zyxel USG60 Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60A917;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="3733.38" y="1439.5" width="242" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="20x 2.5mm2 Klemme Grau" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3216.44" y="2368.6" width="104" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="20x 2.5mm2 Klemme Grau" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3216.44" y="2261.48" width="104" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;8x 2.5mm2 Klemme Erde&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="3247.44" y="2452.1" width="42" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="IPC227E Insight Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2597.01" y="1911.7100000000003" width="191" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="IPC227E Insight Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2597.01" y="1709.7800000000002" width="191" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2650.01" y="1566.9" width="85" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2650.01" y="1472.4" width="85" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2650.01" y="1377.9" width="85" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="Allen-Bradley Compact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3193.44" y="1358.9" width="98" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="Rockwell 5069-L330ER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3193.44" y="1466.9" width="98" height="144" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="1968.2500000000002" y="1190" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2305" y="1190" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2657.51" y="1190" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3207.44" y="1190" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3500" y="1190" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3819.38" y="1190" width="70" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="1994.2500000000002" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2331.01" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="2683.51" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3233.44" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3526" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="3845.38" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

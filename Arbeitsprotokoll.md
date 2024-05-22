@@ -46,6 +46,7 @@
   - Ich habe das B-Learning Agile Testing abgeschlossen.
   - Ich habe alle Sicherungen für die einzlnen CPUs im Layout durch Murr Sicherungen ersetzt, da diese Material, Platzsparender und sehr einfach zu bedienen sind.
   - Ich habe abgesehen von einer Frage, über die Reck's von Vincenzo und Manuel, das Layout fertig.
+  - Ich habe die Materialliste für jede Teststation fertig gemacht.
 
 ## Fragen & Probleme
 

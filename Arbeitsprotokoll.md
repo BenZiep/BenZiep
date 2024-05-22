@@ -52,6 +52,8 @@
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
 - [x] Ich kann das B-Learning noch immer nicht starten.
 - [ ] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
+- [ ] Teilen Vincenzo und Manuel ein Reck oder haben sie 2 identische Recks?
+- [ ] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
 
 ### Fragen am Alexander Test-Wall
 

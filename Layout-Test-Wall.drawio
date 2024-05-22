@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Seite-1" id="gF8QW71d0YPoM_P10tWT">
-        <mxGraphModel dx="-1146" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="-993" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -364,53 +364,6 @@
                 <mxCell id="124" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Multi 9 C60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
                     <mxGeometry x="3250.69" y="2042.76" width="18" height="72" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="" style="group" vertex="1" connectable="0" parent="1">
-                    <mxGeometry x="2753" y="2250" width="480" height="740" as="geometry"/>
-                </mxCell>
-                <mxCell id="22" value="Gruppenaufteilung" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="129" vertex="1">
-                    <mxGeometry width="480" height="380" as="geometry">
-                        <mxRectangle x="933" y="2160" width="60" height="30" as="alternateBounds"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="119" value="" style="group" vertex="1" connectable="0" parent="22">
-                    <mxGeometry y="20" width="480" height="360" as="geometry"/>
-                </mxCell>
-                <mxCell id="23" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" parent="119" vertex="1">
-                    <mxGeometry width="480" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="104" value="Hellgrün umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="23">
-                    <mxGeometry x="25" y="10" width="65" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="24" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" parent="119" vertex="1">
-                    <mxGeometry y="120" width="480" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="108" value="Dunkelblau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="24">
-                    <mxGeometry x="25" y="15" width="75" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="25" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="119" vertex="1">
-                    <mxGeometry y="240" width="480" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="112" value="Gelb umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="25">
-                    <mxGeometry x="25" y="10" width="75" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="Lane 4" style="swimlane;startSize=20;horizontal=0;html=1;" parent="129" vertex="1">
-                    <mxGeometry y="380" width="480" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="116" value="Blau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="26">
-                    <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="117" value="Lane 4" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="129">
-                    <mxGeometry y="500" width="480" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="118" value="Hellblau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="117">
-                    <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="127" value="Lane 5" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="129">
-                    <mxGeometry y="620" width="480" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="128" value="Orange umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="127">
-                    <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="131" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Multi 9 C60&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
                     <mxGeometry x="2701.01" y="1215.0000000000002" width="18" height="72" as="geometry"/>
                 </mxCell>
@@ -421,19 +374,19 @@
                     <mxGeometry x="2701.51" y="1269.0000000000002" width="18" height="72" as="geometry"/>
                 </mxCell>
                 <mxCell id="262" value="Lane 6" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="2753" y="2990" width="480" height="120" as="geometry"/>
+                    <mxGeometry x="2753" y="3159" width="480" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="263" value="Rot umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="262">
                     <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="271" value="Lane 7" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="2753" y="3110" width="480" height="120" as="geometry"/>
+                    <mxGeometry x="2753" y="3279" width="480" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="272" value="Dunkelgelb umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="271">
                     <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="273" value="Lane 8" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="2753" y="3230" width="480" height="120" as="geometry"/>
+                    <mxGeometry x="2753" y="3399" width="480" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="274" value="Grau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="273">
                     <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
@@ -442,9 +395,53 @@
                     <mxGeometry x="2675.01" y="1297.75" width="70" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="282" value="Lane 9" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="2753" y="3350" width="480" height="120" as="geometry"/>
+                    <mxGeometry x="2753" y="3519" width="480" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="283" value="Grün umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="282">
+                    <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Gruppenaufteilung" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2753" y="2279" width="480" height="520" as="geometry">
+                        <mxRectangle x="933" y="2160" width="60" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" parent="22" vertex="1">
+                    <mxGeometry y="20" width="480" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="Hellgrün umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="23">
+                    <mxGeometry x="25" y="10" width="65" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="284" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IPC227E&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hirschmann Switch&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Westermo Gigabit Switch&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Westermo Gigabit Switch&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Multi 9 C60&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Multi 9 C60&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SITOP Modular&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SITOP Modular&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Allen-Bradley Compact&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ET 200SP&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ET 200S&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ET 200S&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VisionBox AgeXIPC127E&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Zyxel USG60 Switch&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=10;fontColor=#000000;" vertex="1" parent="23">
+                    <mxGeometry x="90" y="10" width="321.49" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" parent="22" vertex="1">
+                    <mxGeometry y="240" width="480" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="Dunkelblau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="24">
+                    <mxGeometry x="25" y="15" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="22" vertex="1">
+                    <mxGeometry y="410" width="480" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="Gelb umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="25">
+                    <mxGeometry x="25" y="10" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Lane 4" style="swimlane;startSize=20;horizontal=0;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2753" y="2799" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="Blau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="26">
+                    <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="Lane 4" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2753" y="2919" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="Hellblau umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="117">
+                    <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="Lane 5" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2753" y="3039" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="Orange umrandet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=7;" vertex="1" parent="127">
                     <mxGeometry x="25" y="9.789999999999964" width="75" height="30" as="geometry"/>
                 </mxCell>
             </root>

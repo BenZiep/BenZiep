@@ -40,11 +40,13 @@
   - Ich habe den Strom für die 6 Reihen berechnet.
   - Ich habe fehlende Spannungsversorgungen und Sicherungen hinzugefügt.
   - Ich habe angefangen die Bauteile in Gruppen aufzuteilen.
+- 22.05
+  - Ich habe das B-Learning Software Testing Foundations: Continues Testing and DevOps abgeschlossen.
 
 ## Fragen & Probleme
 
 - [x] Unklarheiten in Visual Studi Code
 - [x] Wieso kann ich das B-Learning nicht starten?
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
-- [ ] Ich kann das B-Learning noch immer nicht starten.
+- [x] Ich kann das B-Learning noch immer nicht starten.
 - [ ] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?

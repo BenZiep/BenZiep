@@ -11,7 +11,7 @@
 | Matthias Noack          | -          |
 | Marcel Frei             | -          |
 | Timon Wallroth          | -          |
-| Urs Brandes             |            |
+| Urs Brandes             | -          |
 | Markus Surber           | Gelb       |
 | Stephan Immerz          | -          |
 | Robin Schneider         | Dunkelblau |

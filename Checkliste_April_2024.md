@@ -14,7 +14,7 @@
 
 ## Einführung CM-Prozesse
 
-- [ ] Einführung abgeschlossen Schokolademkurs
+- [ ] Einführung abgeschlossen Schokoladekurs
 - [ ] Einführung Karsten
 
 ## Testwand

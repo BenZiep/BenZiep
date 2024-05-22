@@ -43,6 +43,7 @@
 - 22.05
   - Ich habe das B-Learning Software Testing Foundations: Continues Testing and DevOps abgeschlossen.
   - Ich habe Fragen über die Test-Wall für Alexander aufgeschrieben.
+  - Ich habe das B-Learning Agile Testing abgeschlossen.
 
 ## Fragen & Probleme
 

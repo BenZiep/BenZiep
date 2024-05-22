@@ -50,3 +50,9 @@
 - [ ] Stimmt die Anzahl HMIs der Test-Wall?
 - [x] Ich kann das B-Learning noch immer nicht starten.
 - [ ] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
+
+### Fragen am Alexander Test-Wall
+
+- [ ] Werden wir den vorhanden Schrank verwende?
+- [ ] Was ist mit der Produzierten Wärme?
+- [ ] Welche Mitglieder deines Teams sollen am "Review" teilnehmen?

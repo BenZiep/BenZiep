@@ -44,16 +44,18 @@
   - Ich habe das B-Learning Software Testing Foundations: Continues Testing and DevOps abgeschlossen.
   - Ich habe Fragen über die Test-Wall für Alexander aufgeschrieben.
   - Ich habe das B-Learning Agile Testing abgeschlossen.
+  - Ich habe alle Sicherungen für die einzlnen CPUs im Layout durch Murr Sicherungen ersetzt, da diese Material, Platzsparender und sehr einfach zu bedienen sind.
+  - Ich habe abgesehen von einer Frage, über die Reck's von Vincenzo und Manuel, das Layout fertig.
 
 ## Fragen & Probleme
 
 - [x] Unklarheiten in Visual Studi Code
 - [x] Wieso kann ich das B-Learning nicht starten?
-- [ ] Stimmt die Anzahl HMIs der Test-Wall?
+- [x] Stimmt die Anzahl HMIs der Test-Wall?
 - [x] Ich kann das B-Learning noch immer nicht starten.
-- [ ] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
+- [x] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
 - [ ] Teilen Vincenzo und Manuel ein Reck oder haben sie 2 identische Recks?
-- [ ] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
+- [x] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
 
 ### Fragen am Alexander Test-Wall
 

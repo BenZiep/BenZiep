@@ -1,5 +1,7 @@
 # Arbeitsprotokoll
 
+Alles was von Ende April bis Afangs Juli gemacht habe.
+
 ## Tage
 
 - 29.04
@@ -53,6 +55,7 @@
   - Ich habe die beiden Layouts bearbeitet.
   - Ich habe eine Liste erstellt mit Material(Mit Preis und Link), welches wir sicher noch zu teil Bestellen müssen.
   - Ich habe eine Liste mit Anzahl und Typ der diversen CPU's und HMI's erstellt.
+  - Ich habe mit Alexander eine Teststation, welche sich auf de anderen seite des Gebeudes befindet, angeschaut, um zu sehen wie es ca. aussehen könnte.
 
 ## Fragen & Probleme
 
@@ -69,3 +72,10 @@
 - [x] Werden wir den vorhanden Schrank verwende?
 - [x] Was ist mit der Produzierten Wärme?
 - [x] Welche Mitglieder deines Teams sollen am "Review" teilnehmen?
+  
+### Was zu klären ist im Meeting mit Karsten, Simon und Alexander
+
+- [ ] Einteilung PLC, HMI, etc.
+- [ ] Schrank Ja/Nein
+- [ ] Netzwerkonzept
+- [ ] etc.

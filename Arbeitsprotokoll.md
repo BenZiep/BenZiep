@@ -47,6 +47,12 @@
   - Ich habe alle Sicherungen für die einzlnen CPUs im Layout durch Murr Sicherungen ersetzt, da diese Material, Platzsparender und sehr einfach zu bedienen sind.
   - Ich habe abgesehen von einer Frage, über die Reck's von Vincenzo und Manuel, das Layout fertig.
   - Ich habe die Materialliste für jede Teststation fertig gemacht.
+- 23.05
+  - Ich musste das Layout welches ich Gestern angepasst habe nochmals anpassen, da es nicht gespeichert wurde.
+  - Ich hatte ein Meeting über das Layout mit Alexander und mit ihm Beschlossen heute nochmals ein Meeting zu machen, aber mit Karsten und Simon.
+  - Ich habe die beiden Layouts bearbeitet.
+  - Ich habe eine Liste erstellt mit Material(Mit Preis und Link), welches wir sicher noch zu teil Bestellen müssen.
+  - Ich habe eine Liste mit Anzahl und Typ der diversen CPU's und HMI's erstellt.
 
 ## Fragen & Probleme
 
@@ -60,6 +66,6 @@
 
 ### Fragen am Alexander Test-Wall
 
-- [ ] Werden wir den vorhanden Schrank verwende?
-- [ ] Was ist mit der Produzierten Wärme?
-- [ ] Welche Mitglieder deines Teams sollen am "Review" teilnehmen?
+- [x] Werden wir den vorhanden Schrank verwende?
+- [x] Was ist mit der Produzierten Wärme?
+- [x] Welche Mitglieder deines Teams sollen am "Review" teilnehmen?

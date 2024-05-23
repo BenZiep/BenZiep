@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="4i3XlWR_qDF0VTYH1KfJ" name="Page-1">
-        <mxGraphModel dx="-673" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="-69" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -11,7 +11,7 @@
                     <mxGeometry x="1802" y="1089.5" width="2295" height="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="2894.5" y="70" width="110" height="2093" as="geometry"/>
+                    <mxGeometry x="2920" y="70" width="110" height="2093" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="IPC477D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
                     <mxGeometry x="1814" y="740" width="483" height="337" as="geometry"/>
@@ -82,7 +82,7 @@
                 <mxCell id="41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;S7-1500 CPU 1513F-1 PN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="1985.75" y="1748.31" width="35" height="147" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="IM151-8PN/DP CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                <mxCell id="42" value="IM151-8 PN/DP CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2280.01" y="1498" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="S7-300 CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
@@ -91,7 +91,7 @@
                 <mxCell id="44" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=180;direction=east;" parent="1" vertex="1">
                     <mxGeometry x="1837" y="1207.5" width="63" height="890.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="IM151-8PN/DP CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
+                <mxCell id="45" value="IM151-8F PN/DP CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2280.01" y="1373" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;direction=west;rotation=90;" parent="1" vertex="1">
@@ -209,13 +209,13 @@
                     <mxGeometry x="2401" y="740" width="483" height="337" as="geometry"/>
                 </mxCell>
                 <mxCell id="106" value="MicroLogix 1100" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;rotation=90;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
-                    <mxGeometry x="3480.01" y="1776.8099999999997" width="110" height="90" as="geometry"/>
+                    <mxGeometry x="3480.01" y="1847.3099999999997" width="110" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="CPU 1769-L36ERM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
-                    <mxGeometry x="3507.51" y="1566.81" width="55" height="118" as="geometry"/>
+                    <mxGeometry x="3490" y="1591" width="90" height="118" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="CPU 1769-L36ERM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
-                    <mxGeometry x="3490" y="1649.9999999999998" width="90" height="118" as="geometry"/>
+                    <mxGeometry x="3490" y="1709.7799999999997" width="90" height="118" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="CPU 5069 L330ERS2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3486.01" y="1462.9" width="98" height="143" as="geometry"/>
@@ -247,62 +247,62 @@
                 <mxCell id="51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;8x 2.5mm2 Klemme Erde&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3247.44" y="2452.1" width="42" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="108" value="IPC227E Insight Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
-                    <mxGeometry x="2597.01" y="1911.7100000000003" width="191" height="100" as="geometry"/>
-                </mxCell>
-                <mxCell id="109" value="IPC227E Insight Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                <mxCell id="109" value="IPC227E Insight Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2597.01" y="1709.7800000000002" width="191" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="110" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                <mxCell id="110" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2650.01" y="1566.9" width="85" height="85" as="geometry"/>
                 </mxCell>
-                <mxCell id="111" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="111" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2650.01" y="1472.4" width="85" height="85" as="geometry"/>
                 </mxCell>
-                <mxCell id="112" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                <mxCell id="112" value="IPC127E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2650.01" y="1377.9" width="85" height="85" as="geometry"/>
                 </mxCell>
-                <mxCell id="113" value="Allen-Bradley Compact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" vertex="1" parent="1">
+                <mxCell id="113" value="L27ERM QBFC1B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=east;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3193.44" y="1358.9" width="98" height="144" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="Rockwell 5069-L330ER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="114" value="Rockwell 5069-L330ER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3193.44" y="1466.9" width="98" height="144" as="geometry"/>
                 </mxCell>
-                <mxCell id="116" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="116" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="1968.2500000000002" y="1190" width="70" height="121" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="117" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2305" y="1190" width="70" height="121" as="geometry"/>
                 </mxCell>
-                <mxCell id="118" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="118" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2657.51" y="1190" width="70" height="121" as="geometry"/>
                 </mxCell>
-                <mxCell id="119" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="119" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3207.44" y="1190" width="70" height="121" as="geometry"/>
                 </mxCell>
-                <mxCell id="120" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="120" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3500" y="1190" width="70" height="121" as="geometry"/>
                 </mxCell>
-                <mxCell id="121" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" vertex="1" parent="1">
+                <mxCell id="121" value="Sitop PSU200M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#000000;strokeWidth=3;direction=west;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3819.38" y="1190" width="70" height="121" as="geometry"/>
                 </mxCell>
-                <mxCell id="122" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                <mxCell id="122" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="1994.2500000000002" y="1260" width="18" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="124" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                <mxCell id="124" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2331.01" y="1260" width="18" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="125" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                <mxCell id="125" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="2683.51" y="1260" width="18" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="126" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                <mxCell id="126" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3233.44" y="1260" width="18" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="127" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                <mxCell id="127" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3526" y="1260" width="18" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="128" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" vertex="1" parent="1">
+                <mxCell id="128" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3845.38" y="1260" width="18" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="&lt;b&gt;Siemens&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;19 Insgesamt&lt;/li&gt;&lt;ul&gt;&lt;li&gt;4x 1512SP F-1 PN&lt;/li&gt;&lt;li&gt;4x 1513 F-1 PN&lt;/li&gt;&lt;li&gt;2x S7-300&lt;/li&gt;&lt;li&gt;1x IM151-8f PN/DP&lt;/li&gt;&lt;li&gt;1x IM151-8 PN/DP&lt;/li&gt;&lt;li&gt;1x 1517&lt;/li&gt;&lt;li&gt;1x 1510SP-1 PN&lt;/li&gt;&lt;li&gt;1x 200SP F-CPU&lt;/li&gt;&lt;li&gt;3x IPC127E&lt;/li&gt;&lt;li&gt;1x IPC227E&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;b&gt;Rockwell&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;10 Insgesamt&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;1x L27ERM QBC1B&lt;/li&gt;&lt;li style=&quot;&quot;&gt;4x 5069-L330ER&lt;/li&gt;&lt;li style=&quot;&quot;&gt;2x 5069-L330ERS2&lt;/li&gt;&lt;li style=&quot;&quot;&gt;2x 1769-L36ERM&lt;/li&gt;&lt;li style=&quot;&quot;&gt;1x MicroLogix 1100&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="4150" y="120" width="210" height="420" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

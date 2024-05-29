@@ -63,6 +63,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe einen Schrank ausgewählt.
   - Ich habe ein neues Layout angefangen und es soweit wie ich kann konstruiert.
   - Ich habe das E-Learning Software Testing: Exploratary Testing gemacht.
+  - Ich habe das neue Layout fertig.
 
 ## Fragen & Probleme
 
@@ -73,7 +74,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
 - [ ] Teilen Vincenzo und Manuel ein Reck oder haben sie 2 identische Recks?
 - [x] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
-- [ ] Schaltschrank (Vorlage Bestellung, Befestigungsplatte Layouten)
+- [x] Schaltschrank (Vorlage Bestellung, Befestigungsplatte Layouten)
+- [ ] Beim neuen Layout könnte es knapp werden mit den Touch Panel's, entweder an Türe, oder ein paar davon wo anders legen, z.B. unten vom Schrank hat es noch etwas Platz.
 
 ### Fragen am Alexander Test-Wall
 

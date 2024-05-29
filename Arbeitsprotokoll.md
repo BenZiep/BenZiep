@@ -56,6 +56,13 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe eine Liste erstellt mit Material(Mit Preis und Link), welches wir sicher noch zu teil Bestellen müssen.
   - Ich habe eine Liste mit Anzahl und Typ der diversen CPU's und HMI's erstellt.
   - Ich habe mit Alexander eine Teststation, welche sich auf de anderen seite des Gebeudes befindet, angeschaut, um zu sehen wie es ca. aussehen könnte.
+- 24.05
+  - Ich habe ein zusammenfassendes Layout vom neuen Prinzip der Test-Wall für eine Präsentation von Simon gemacht.
+- 29.05
+  - Ich habe eine Vorlage zum Schrank bestellen gesucht.
+  - Ich habe einen Schrank ausgewählt.
+  - Ich habe ein neues Layout angefangen und es soweit wie ich kann konstruiert.
+  - Ich habe das E-Learning Software Testing: Exploratary Testing gemacht.
 
 ## Fragen & Probleme
 
@@ -66,6 +73,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Hat Urs Brandes noch zusätzliche Bauteile für die Test-Wall?
 - [ ] Teilen Vincenzo und Manuel ein Reck oder haben sie 2 identische Recks?
 - [x] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
+- [ ] Schaltschrank (Vorlage Bestellung, Befestigungsplatte Layouten)
 
 ### Fragen am Alexander Test-Wall
 

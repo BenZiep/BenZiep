@@ -64,6 +64,10 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe ein neues Layout angefangen und es soweit wie ich kann konstruiert.
   - Ich habe das E-Learning Software Testing: Exploratary Testing gemacht.
   - Ich habe das neue Layout fertig.
+- 31.05
+  - Ich habe das Layout angepasst und die Verdrahtung gezeichnet.
+  - Ich habe noch zusätzliche Bauteile hinzugefügt.
+  - Ich habe die Materielliste, der evtl. noch zu bestellenden Bauteile fertig gemacht, mit Link, Preis und Anzahl.
 
 ## Fragen & Probleme
 
@@ -75,7 +79,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [ ] Teilen Vincenzo und Manuel ein Reck oder haben sie 2 identische Recks?
 - [x] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
 - [x] Schaltschrank (Vorlage Bestellung, Befestigungsplatte Layouten)
-- [ ] Beim neuen Layout könnte es knapp werden mit den Touch Panel's, entweder an Türe, oder ein paar davon wo anders legen, z.B. unten vom Schrank hat es noch etwas Platz.
+- [x] Beim neuen Layout könnte es knapp werden mit den Touch Panel's, entweder an Türe, oder ein paar davon wo anders legen, z.B. unten vom Schrank hat es noch etwas Platz.
+- [ ] Wären evtl. Gitter besser als Kabelkanäle?
 
 ### Fragen am Alexander Test-Wall
 

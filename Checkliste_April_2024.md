@@ -23,7 +23,7 @@
 - [x] Daten der Bauteile erhalten
 - [x] Masse der diversen Recks
 - [x] Layout für die Recks
-- [ ] Überprüfen ob die recks in den vorhandenen Schrank passen
+- [x] Überprüfen ob die recks in den vorhandenen Schrank passen
 
 Wenns passt:
 

@@ -68,6 +68,13 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe das Layout angepasst und die Verdrahtung gezeichnet.
   - Ich habe noch zusätzliche Bauteile hinzugefügt.
   - Ich habe die Materielliste, der evtl. noch zu bestellenden Bauteile fertig gemacht, mit Link, Preis und Anzahl.
+  - Ich habe eine Tabelle erstellt, auf welche man sieht, wie teuer die zu bestellenden Bauteile ungefüh sind und was der Wert der gesammten Test-Wall ist.
+- 03.06
+  - Wir haben angeschaut wie es mit der Stromversorgung aussieht.
+  - Ich weiss jetzt welcher Westermo-Typ für die Testwall benötigt wird.
+  - Ich habe die ungefähre Länge der Lankabel berechent
+  - Ich habe mit Ramon besprochen wann wir die Testlinie starten (Mittwoch 05.06).
+  - Ich habe mit Denis angeschaut wann ich den Bildungsbericht habe (Montag 03.06).
 
 ## Fragen & Probleme
 
@@ -80,7 +87,9 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Aufteilung der Bauteile von Andreas mit Andreas besprechen.
 - [x] Schaltschrank (Vorlage Bestellung, Befestigungsplatte Layouten)
 - [x] Beim neuen Layout könnte es knapp werden mit den Touch Panel's, entweder an Türe, oder ein paar davon wo anders legen, z.B. unten vom Schrank hat es noch etwas Platz.
-- [ ] Wären evtl. Gitter besser als Kabelkanäle?
+- [x] Wären evtl. Gitter besser als Kabelkanäle?
+- [x] Welche westermo? L210-F2G oder Lynx3510-E-F2G-T8G-LV
+- [ ] Wie teuer sind Kabelkanal, Kablegitter und Hutschiene ungefähr?
 
 ### Fragen am Alexander Test-Wall
 

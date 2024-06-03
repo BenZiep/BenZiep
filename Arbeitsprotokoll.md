@@ -75,6 +75,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe die ungefähre Länge der Lankabel berechent
   - Ich habe mit Ramon besprochen wann wir die Testlinie starten (Mittwoch 05.06).
   - Ich habe mit Denis angeschaut wann ich den Bildungsbericht habe (Montag 03.06).
+  - Ich habe mit der Testlinie gestartet und ein neuses Respotory (TestLinieCM01_1_PlcSource) esrstellt.
+  - Ich habe die SystemSpesifications durchgelesen und versucht zu verstehen.
 
 ## Fragen & Probleme
 

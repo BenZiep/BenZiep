@@ -84,6 +84,9 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich hatte einen Bildungsbericht mit Denis Forster.
   - Ich habe für Denis einen Schrank etwas aufgräumt/sortiert.
   - Ich habe bei der Test-Linie weitergemacht.
+  - Ich habe für Denis eine Lampe installiert.
+  - Ich habe meine Sommerferien angepasst.
+  - Ich habe an der Test-Linie weitergearbeitet.
 
 ## Fragen & Probleme
 

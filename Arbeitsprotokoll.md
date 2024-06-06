@@ -77,6 +77,13 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe mit Denis angeschaut wann ich den Bildungsbericht habe (Montag 03.06).
   - Ich habe mit der Testlinie gestartet und ein neuses Respotory (TestLinieCM01_1_PlcSource) esrstellt.
   - Ich habe die SystemSpesifications durchgelesen und versucht zu verstehen.
+- 05.06
+  - Ich habe mit der Test-Linie angefangen.
+- 06.06
+  - Ich habe bei der Test-Linie weitergemacht.
+  - Ich hatte einen Bildungsbericht mit Denis Forster.
+  - Ich habe für Denis einen Schrank etwas aufgräumt/sortiert.
+  - Ich habe bei der Test-Linie weitergemacht.
 
 ## Fragen & Probleme
 

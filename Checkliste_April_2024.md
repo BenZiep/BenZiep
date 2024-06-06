@@ -10,7 +10,7 @@
 
 ## Software Testing
 
-- [ ] Online-Kurse abgeschlossen
+- [x] Online-Kurse abgeschlossen
 
 ## Einführung CM-Prozesse
 

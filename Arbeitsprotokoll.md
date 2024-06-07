@@ -87,6 +87,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe für Denis eine Lampe installiert.
   - Ich habe meine Sommerferien angepasst.
   - Ich habe an der Test-Linie weitergearbeitet.
+- 07.06
+  - Ich habe an der Test-Linie weitergearbeitet
 
 ## Fragen & Probleme
 

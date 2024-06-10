@@ -89,6 +89,9 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe an der Test-Linie weitergearbeitet.
 - 07.06
   - Ich habe an der Test-Linie weitergearbeitet
+- 10.06
+  - Ich habe mit Ramon versucht ein Problem bei der Test-Linie zu lösen.
+  - Ich habe den Schrank, die Kabelkanäle, die Gitterkanäle und die Kupferschienen für die Test-Wall bei Samuel Hauri bestellt.
 
 ## Fragen & Probleme
 

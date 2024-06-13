@@ -6,7 +6,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 
 - 29.04
   - Ich habe gelernt wie ich und für was ich Markdown benutze/benötige. (Unterstützung Pascal Brühwiler & [YouTube-Video](https://youtu.be/_PPWWRV6gbA?si=M2w19K0zv1BXbKE0))
-  - Ich habe eine Checkliste für, was ich alles im April erledigen soll, gemacht.
+  - Ich habe eine Checkliste für, was ich alles im April erledigen soll, erstellt.
   - Ich habe ein Arbeitsprotokoll erstellt, in welches ich schreibe, was ich an welchem tag gemacht habe.
   - Habe mich mit Visual Studio Code auseinander gesetzt.
 - 01.05
@@ -38,7 +38,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe das Layout nochmals überarbeitet.
   - Ich habe mit Alexander einen Termin abgemacht um mit ihm das Layout zu besprechen.
 - 17.05
-  - Ich habe ein Neuse Layout gemacht, in welchem ich alle gleichen SPS beieinander habe.
+  - Ich habe ein Neuse Layout erstellt, in welchem ich alle gleichen SPS beieinander habe.
   - Ich habe den Strom für die 6 Reihen berechnet.
   - Ich habe fehlende Spannungsversorgungen und Sicherungen hinzugefügt.
   - Ich habe angefangen die Bauteile in Gruppen aufzuteilen.
@@ -57,7 +57,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe eine Liste mit Anzahl und Typ der diversen CPU's und HMI's erstellt.
   - Ich habe mit Alexander eine Teststation, welche sich auf de anderen seite des Gebeudes befindet, angeschaut, um zu sehen wie es ca. aussehen könnte.
 - 24.05
-  - Ich habe ein zusammenfassendes Layout vom neuen Prinzip der Test-Wall für eine Präsentation von Simon gemacht.
+  - Ich habe ein zusammenfassendes Layout vom neuen Prinzip der Test-Wall für eine Präsentation von Simon erstellt.
 - 29.05
   - Ich habe eine Vorlage zum Schrank bestellen gesucht.
   - Ich habe einen Schrank ausgewählt.

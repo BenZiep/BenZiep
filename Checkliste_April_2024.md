@@ -32,7 +32,8 @@ Wenns passt:
 
 Wenns nicht passt:
 
-- [ ] Masse berechnen
-- [ ] Schrank bestellen
-- [ ] Material für Befestigung bestellen
+- [x] Masse berechnen
+- [x] Schrank bestellen
+- [x] Material für Befestigung bestellen
+- [ ] Zusätliche Hardware bestellen
 - [ ] Recks einbauen

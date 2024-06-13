@@ -112,6 +112,9 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Wären evtl. Gitter besser als Kabelkanäle?
 - [x] Welche westermo? L210-F2G oder Lynx3510-E-F2G-T8G-LV
 - [ ] Wie teuer sind Kabelkanal, Kablegitter und Hutschiene ungefähr?
+- [ ] Wer bestellt die zusätliche Hardware für die Test-Wall?
+- [ ] Darf ich die Platte der Test-Wall anfertigen?
+- [ ] Wo darf ich die Platte der Test-Wall anfertigen?
 
 ### Fragen am Alexander Test-Wall
 

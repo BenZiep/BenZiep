@@ -12,12 +12,12 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - 01.05
   - Ich habe ein neues Dokument erstell wo alle ihre Bauteil für die Test-Wall eintragen können.
   - Ich habe eine E-Mail geschrieben und alle aufgefordert ihre Bauteile für die Test-Wall einzutragen.
-  - Ich habe mit Mermaidsheet ein FlowSheet für die einteilung, wann ich was mache, erstellt, eine mmd-Datei daraus gemacht und dem Repetory hinzugefügt.
+  - Ich habe mit Mermaidsheet ein FlowSheet für die einteilung, wann ich was mache, erstellt, eine mmd-Datei daraus gemacht und dem Respetory hinzugefügt.
   - Ich habe das Markdown_CheatSheet noch erweitert.
 - 02.05
   - Ich habe herausgefunde wieso ich das B-Learning noch nicht machen kann (Es muss noch genemigt werden).
   - Ich habe den Schrank der Test-Wall nochmals ausgemessen.
-  - Ich habe ein Word erstellt, in welchem ich mit dem bereits vorhandenen Material, welches auf die Test-Wall kommt, ein ungefähres Layout erstellt habe (1:100).
+  - Ich habe ein Word, in welchem ich mit dem bereits vorhandenen Material, welches auf die Test-Wall kommt, ein ungefähres Layout erstellt habe (1:100).
 - 03.05
   - Ich habe alle, welche bis heute noch nichts im Test-Wall-Dokument eingetrgen haben per Teams nochmals daran erinnert.
   - Ich habe am Layaut der Test-Wall Weitergearbeitet.
@@ -97,6 +97,16 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - 13.06
   - Test-Linie
   - Bestätigung bekommen, das der Schrank für die Test-Wall bestellt wurde (Samuel Hauri wird mir bescheid geben, wenn alles fertig ist).
+- 13.06
+  - Test-Linie
+- 17.06
+  - Test-Linie
+  - Alle Bauteile für die Test-Wall wurden bestellt.
+  - Test-Linie
+  - Abgeklärt wie ich die Bestigungsplatte der Test-Wall anfertigen lasse
+- 19.06
+  - Ich habe Marco Gölz bezüglich der Platte für die Test-Wall geschrieben.
+  - Ich ahbe herausgefinden das ich das mit der Platte mit Michel Pfister abklären soll
 
 ## Fragen & Probleme
 
@@ -112,9 +122,10 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Wären evtl. Gitter besser als Kabelkanäle?
 - [x] Welche westermo? L210-F2G oder Lynx3510-E-F2G-T8G-LV
 - [ ] Wie teuer sind Kabelkanal, Kablegitter und Hutschiene ungefähr?
-- [ ] Wer bestellt die zusätliche Hardware für die Test-Wall?
+- [x] Wer bestellt die zusätliche Hardware für die Test-Wall?
 - [ ] Darf ich die Platte der Test-Wall anfertigen?
 - [ ] Wo darf ich die Platte der Test-Wall anfertigen?
+- [x] Mit Marco Gölz abklären wie es mit der Anfertigung der Platter für die Test-Wall aussieht.
 
 ### Fragen am Alexander Test-Wall
 

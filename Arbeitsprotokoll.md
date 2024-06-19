@@ -112,6 +112,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe Simon gefraget wie es mit der Anfertigung der Platte aussieht, ob ich diese selber anfertigen soll oder ob Michel Pfister die macht.
   - Ich habe Karsten bezüglich der Test-Linie gefragt wie ich IOSimuli mit TIA verbinden kann/soll.
   - Ich habe das Layout-Test-Wall angepasst.
+  - Ich habe mit Michel Pfister angeschaut wie wir das mit der Platte machen und was für infos er braucht.
+  - Ich bin am versuchen wie ich die PLC mit IOSimuli verbinde.
 
 ## Fragen & Probleme
 

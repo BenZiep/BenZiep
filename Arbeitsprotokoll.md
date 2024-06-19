@@ -106,7 +106,12 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Abgeklärt wie ich die Bestigungsplatte der Test-Wall anfertigen lasse
 - 19.06
   - Ich habe Marco Gölz bezüglich der Platte für die Test-Wall geschrieben.
-  - Ich ahbe herausgefinden das ich das mit der Platte mit Michel Pfister abklären soll
+  - Ich ahbe herausgefinden das ich das mit der Platte mit Michel Pfister abklären soll.
+  - Ich habe das Reck mit Doppel-Weibchen-Anschluss bei David Hollenstein bestellt.
+  - Ich habe die Materialliste für die Test-Wall angepasst.
+  - Ich habe Simon gefraget wie es mit der Anfertigung der Platte aussieht, ob ich diese selber anfertigen soll oder ob Michel Pfister die macht.
+  - Ich habe Karsten bezüglich der Test-Linie gefragt wie ich IOSimuli mit TIA verbinden kann/soll.
+  - Ich habe das Layout-Test-Wall angepasst.
 
 ## Fragen & Probleme
 

@@ -114,6 +114,9 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe das Layout-Test-Wall angepasst.
   - Ich habe mit Michel Pfister angeschaut wie wir das mit der Platte machen und was für infos er braucht.
   - Ich bin am versuchen wie ich die PLC mit IOSimuli verbinde.
+- 20.06
+  - Ein Teil des Material für die Test-Wall wurde geliefert, ich habe es in Hochhaus gebracht.
+  - 
 
 ## Fragen & Probleme
 

@@ -130,8 +130,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Welche westermo? L210-F2G oder Lynx3510-E-F2G-T8G-LV
 - [ ] Wie teuer sind Kabelkanal, Kablegitter und Hutschiene ungefähr?
 - [x] Wer bestellt die zusätliche Hardware für die Test-Wall?
-- [ ] Darf ich die Platte der Test-Wall anfertigen?
-- [ ] Wo darf ich die Platte der Test-Wall anfertigen?
+- [x] Darf ich die Platte der Test-Wall anfertigen?
+- [x] Wo darf ich die Platte der Test-Wall anfertigen?
 - [x] Mit Marco Gölz abklären wie es mit der Anfertigung der Platter für die Test-Wall aussieht.
 
 ### Fragen am Alexander Test-Wall

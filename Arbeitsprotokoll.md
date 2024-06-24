@@ -116,7 +116,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich bin am versuchen wie ich die PLC mit IOSimuli verbinde.
 - 20.06
   - Ein Teil des Material für die Test-Wall wurde geliefert, ich habe es in Hochhaus gebracht.
-  - s
+  - Mit Karsten an der Test-Linie gearbeitet.
 
 ## Fragen & Probleme
 

@@ -117,6 +117,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - 20.06
   - Ein Teil des Material für die Test-Wall wurde geliefert, ich habe es in Hochhaus gebracht.
   - Mit Karsten an der Test-Linie gearbeitet.
+  - Ich habe an der Test-Linie gearbeitet.
 
 ## Fragen & Probleme
 

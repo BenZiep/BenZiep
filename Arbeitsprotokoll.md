@@ -129,6 +129,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe dem Hardwareplaner Michel Pfister mitgeteilt das die Platte und gewisses Material (Aluminiumschienen, Verdrahtungskanäle und Gitterkanäle) schon vorhanden ist.
 - 27.06
   - Ich habe am Testing-Dokument weitergelesen.
+  - Ich habe das Testing-Dokumtent fertig gelesen.
 
 ## Fragen & Probleme
 

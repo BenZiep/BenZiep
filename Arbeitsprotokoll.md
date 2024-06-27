@@ -118,6 +118,17 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ein Teil des Material für die Test-Wall wurde geliefert, ich habe es in Hochhaus gebracht.
   - Mit Karsten an der Test-Linie gearbeitet.
   - Ich habe an der Test-Linie gearbeitet.
+- 24.06
+  - Ich habe an der Test-Linie zusammen mit Karsten gearbeitet.
+  - Ich habe an der Test-Linie zusammen mit Karsten gearbeitet.
+  - Ich habe ein Dokument über Testing mit GCPro angefangen zu lesen.
+- 26.06
+  - Ich habe am Testing-Dokument weitergelesen.
+  - Ich habe den Schaltschrank für die Test-Wall in den 5ten Stock transportiert.
+  - Ich habe das Dokument Bauteile_Test-Wall mit Fehlenden Teil-/UXE-Nummern vervollständigt.
+  - Ich habe dem Hardwareplaner Michel Pfister mitgeteilt das die Platte und gewisses Material (Aluminiumschienen, Verdrahtungskanäle und Gitterkanäle) schon vorhanden ist.
+- 27.06
+  - Ich habe am Testing-Dokument weitergelesen.
 
 ## Fragen & Probleme
 
@@ -132,7 +143,7 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - [x] Beim neuen Layout könnte es knapp werden mit den Touch Panel's, entweder an Türe, oder ein paar davon wo anders legen, z.B. unten vom Schrank hat es noch etwas Platz.
 - [x] Wären evtl. Gitter besser als Kabelkanäle?
 - [x] Welche westermo? L210-F2G oder Lynx3510-E-F2G-T8G-LV
-- [ ] Wie teuer sind Kabelkanal, Kablegitter und Hutschiene ungefähr?
+- [x] Wie teuer sind Kabelkanal, Kablegitter und Hutschiene ungefähr?
 - [x] Wer bestellt die zusätliche Hardware für die Test-Wall?
 - [x] Darf ich die Platte der Test-Wall anfertigen?
 - [x] Wo darf ich die Platte der Test-Wall anfertigen?

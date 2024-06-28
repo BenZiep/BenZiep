@@ -130,6 +130,10 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
 - 27.06
   - Ich habe am Testing-Dokument weitergelesen.
   - Ich habe das Testing-Dokumtent fertig gelesen.
+- 28.06
+  - Ich habe die Platte für die Test-Wall zu Samuel Hauri gebracht, damit er sie bearbeiten kann.
+  - Ich habe weiteres Material für die Test-Wall abgeholt.
+  - Ich habe an der Testlinie gearbeitet (Fehler behoben, Job-Zähler eingerichtet, angefangen versuchen zu testen).
 
 ## Fragen & Probleme
 

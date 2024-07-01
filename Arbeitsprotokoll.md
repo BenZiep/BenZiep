@@ -134,6 +134,8 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe die Platte für die Test-Wall zu Samuel Hauri gebracht, damit er sie bearbeiten kann.
   - Ich habe weiteres Material für die Test-Wall abgeholt.
   - Ich habe an der Testlinie gearbeitet (Fehler behoben, Job-Zähler eingerichtet, angefangen versuchen zu testen).
+- 01.07
+  - Ich habe an der Test-Linie gearbeitet.
 
 ## Fragen & Probleme
 

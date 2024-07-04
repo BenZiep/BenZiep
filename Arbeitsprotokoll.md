@@ -136,6 +136,14 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe an der Testlinie gearbeitet (Fehler behoben, Job-Zähler eingerichtet, angefangen versuchen zu testen).
 - 01.07
   - Ich habe an der Test-Linie gearbeitet.
+- 03.07
+  - Ich habe mit Samuel Hauri geschaut welche Erweiterung ich bestelle muss, damit ich die 2 Recks und die 2 Patchboxen in den Schrank der Test-Wall einbauen kann.
+  - Ich habe die Platte wieder in den Schrank eingebaut.
+  - Ich habe an der Test-Linie gearbeitet.
+- 04.07
+  - Ich habe an der Test-Linie gearbeitet.
+  - Ich habe Ritall, bezüglich der befestigung der Recks, geschrieben.
+  - Ich habe an der Test-Linie gearbeitet.
 
 ## Fragen & Probleme
 

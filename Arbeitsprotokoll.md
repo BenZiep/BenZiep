@@ -144,6 +144,10 @@ Alles was von Ende April bis Afangs Juli gemacht habe.
   - Ich habe an der Test-Linie gearbeitet.
   - Ich habe Ritall, bezüglich der befestigung der Recks, geschrieben.
   - Ich habe an der Test-Linie gearbeitet.
+- 29.07
+  - Ich habe an der Test-Linie gearbeitet
+  - Ich habe eine Offerte bei Rittal angefordert.
+  - Ich habe 2 Mittstiften bei was geholfen (Anleitung testen, TIA).
 
 ## Fragen & Probleme
 

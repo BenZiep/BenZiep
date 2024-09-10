@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="4i3XlWR_qDF0VTYH1KfJ" name="Page-1">
-        <mxGraphModel dx="-69" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="471" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -301,8 +301,8 @@
                 <mxCell id="128" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 5px;&quot;&gt;IC60N&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=3;fontSize=6;fontColor=#FFFFFF;fillColor=#00FFFF;rotation=90;" parent="1" vertex="1">
                     <mxGeometry x="3845.38" y="1260" width="18" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="&lt;b&gt;Siemens&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;19 Insgesamt&lt;/li&gt;&lt;ul&gt;&lt;li&gt;4x 1512SP F-1 PN&lt;/li&gt;&lt;li&gt;4x 1513 F-1 PN&lt;/li&gt;&lt;li&gt;2x S7-300&lt;/li&gt;&lt;li&gt;1x IM151-8f PN/DP&lt;/li&gt;&lt;li&gt;1x IM151-8 PN/DP&lt;/li&gt;&lt;li&gt;1x 1517&lt;/li&gt;&lt;li&gt;1x 1510SP-1 PN&lt;/li&gt;&lt;li&gt;1x 200SP F-CPU&lt;/li&gt;&lt;li&gt;3x IPC127E&lt;/li&gt;&lt;li&gt;1x IPC227E&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;b&gt;Rockwell&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;10 Insgesamt&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;1x L27ERM QBC1B&lt;/li&gt;&lt;li style=&quot;&quot;&gt;4x 5069-L330ER&lt;/li&gt;&lt;li style=&quot;&quot;&gt;2x 5069-L330ERS2&lt;/li&gt;&lt;li style=&quot;&quot;&gt;2x 1769-L36ERM&lt;/li&gt;&lt;li style=&quot;&quot;&gt;1x MicroLogix 1100&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="4150" y="120" width="210" height="420" as="geometry"/>
+                <mxCell id="129" value="&lt;b&gt;Siemens&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;19 Insgesamt&lt;/li&gt;&lt;ul&gt;&lt;li&gt;4x 1512SP F-1 PN&lt;/li&gt;&lt;li&gt;4x 1513 F-1 PN&lt;/li&gt;&lt;li&gt;2x S7-300&lt;/li&gt;&lt;li&gt;1x IM151-8f PN/DP&lt;/li&gt;&lt;li&gt;1x IM151-8 PN/DP&lt;/li&gt;&lt;li&gt;1x 1517&lt;/li&gt;&lt;li&gt;1x 1510SP-1 PN&lt;/li&gt;&lt;li&gt;1x 200SP F-CPU&lt;/li&gt;&lt;li&gt;3x IPC127E&lt;/li&gt;&lt;li&gt;1x IPC227E&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;b&gt;Rockwell&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;10 Insgesamt&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;1x L27ERM QBC1B&lt;/li&gt;&lt;li style=&quot;&quot;&gt;4x 5069-L330ER&lt;/li&gt;&lt;li style=&quot;&quot;&gt;2x 5069-L330ERS2&lt;/li&gt;&lt;li style=&quot;&quot;&gt;2x 1769-L36ERM&lt;/li&gt;&lt;li style=&quot;&quot;&gt;1x MicroLogix 1100&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="4190" y="60" width="210" height="420" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
